@@ -1,5 +1,5 @@
-### FusionIQ's Github Page
-Hello friends! This is my Github page where all of my creations will be available to view and download for free!
+### Hello Friends! 👋
+This is my Github page! It's pretty cool.
 
 ### 🚀 About Me
 
@@ -10,6 +10,10 @@ My name is FusionIQ, and I am a 15 year old aspiring creator eager to showcase m
 
 > The server's IP address is **play.mythicalrealms.net**, but is playable yet. 
 > Visit my website for more information and devlogs at www.mythicalrealms.net
+
+
+🖊 **Video Editing**
+
 
 🧪 **The Lab**. The lab is a special place which holds a bunch of random, yet creative projects that I make. They can be real life projects such as science experiements or attempts to code crazy ideas that you give me. The Lab is just a place where I have fun and express myself.
 
