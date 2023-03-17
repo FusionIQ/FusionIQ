@@ -1,4 +1,5 @@
 ### 🚀 About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fusioniq&label=Profile%20views&color=0e75b6&style=flat" alt="fusioniq" /> </p>
 
 My name is Fusion, and I am an aspiring creator eager to showcase my passions for creating things. Although I am still in the learning phase, I am committed to honing my skills and becoming proficient in a variety of areas. ***All of my projects will be here to view and download for free!*** I'm always excited to share my work with others and to see what people think of my creations.
 
