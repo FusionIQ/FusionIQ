@@ -11,9 +11,10 @@ My name is FusionIQ, and I am a 15 year old aspiring creator eager to showcase m
 Mythical Realms a Minecraft Java Edition server running on version *1.19.3* which tries to break the barrier of minecraft's game engine. It has always been a dream of mine to run a succesful Minecraft MMORPG server, and I constantly update and work on it. I am hoping to fully release it by **2025** due to how many amazing features that will implemented on the server. Currently it is a solo project, but I might expand and hire some developers to make the process faster.
 
 > Visit my website for more information and devlogs at www.mythicalrealms.net
+> Server IP: play.mythicalrealms.net
+> Not Playable Yet.
 
-
-🤺 **A Unity Game**
+🤺 **An RPG Unity Game**
 I am currently learning how to code in C#, so I can make my dream RPG game in Unity! I don't have a name yet, but I have some very awesome ideas on how the game's core mechanics work and some cool monsters and bosses.
 
 
